@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush raj
 =================================================================================================================================
 
-Web app and game Designer Devloper
+Designer Devloper || APPs || Games ||
 -----------------------------------
 
 * 🌍  I'm based in india
-* 🧠  I'm learning Stellar
-* 🤝  I'm open to collaborating on Machine Learning
+* 🧠  I'm learning Unreal Engine
+* 🤝  I'm open to collaborating on web app and game development. 
 
 ### Skills
 
